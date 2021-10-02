@@ -1,7 +1,7 @@
 from pypresence import Presence
 from time import time
 
-RPC = Presence('807864024150179880')
+RPC = Presence(Id)
 
 btns = [
 	{
